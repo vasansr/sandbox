@@ -1,6 +1,6 @@
 File contents
 Initial pieces of code
   code code code
-  code code code
+  code code code modified code
   code code code
   end of checkpoint 1
