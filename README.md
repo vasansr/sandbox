@@ -1,2 +1,2 @@
 # sandbox
-For testing git features
+For trying out git commands and features.
