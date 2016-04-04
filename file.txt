@@ -4,3 +4,8 @@ Initial pieces of code
   code code code
   code code code
   end of checkpoint 1
+
+Another set of changes, new section of code
+  code code code
+  code code code
+  code code code
