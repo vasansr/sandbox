@@ -15,5 +15,6 @@ Proceeding with third set of changes
   code code code
   code code code
   code code code
+  finalizing checkpoint 3
 
 
