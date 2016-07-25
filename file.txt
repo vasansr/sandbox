@@ -3,6 +3,7 @@ Initial pieces of code
   code code code
   code code code modified code
   code code code
+  -- correction after cp3 created
   end of checkpoint 1
 
 Another set of changes, new section of code
