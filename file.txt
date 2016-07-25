@@ -4,6 +4,7 @@ Initial pieces of code
   code code code modified code
   code code code
   -- correction after cp3 created
+  Previous one merged cp1 to all branches. Now trying cp1 -> cp2 -> cp3 ...
   end of checkpoint 1
 
 Another set of changes, new section of code
