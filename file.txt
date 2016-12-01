@@ -20,3 +20,4 @@ Proceeding with third set of changes
   finalizing checkpoint 3
 
 More changes ...
+More changes before checkpoint 4
