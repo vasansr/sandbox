@@ -1,0 +1,24 @@
+File contents
+Initial pieces of code
+  code code code
+  code code code modified code
+  code code code
+  -- correction after cp3 created
+  Previous one merged cp1 to all branches. Now trying cp1 -> cp2 -> cp3 ...
+  end of checkpoint 1
+
+Another set of changes, new section of code
+  code code code
+  code code code corrections
+  code code code
+  finalizing checkpoint 2
+
+Proceeding with third set of changes
+  code code code
+  code code code
+  more changes in between
+  changes after finalizing checpoint 3
+  code code code
+  finalizing checkpoint 3
+
+
