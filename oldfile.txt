@@ -18,6 +18,7 @@ Proceeding with third set of changes
   code code code
   more changes in between
   changes after finalizing checpoint 3
+  changes after moving to oldfile
   code code code
   finalizing checkpoint 3
 
