@@ -13,8 +13,6 @@ Another set of changes, new section of code
   code code code
   finalizing checkpoint 2
 
-Adding feature 2
-
 Proceeding with third set of changes
   code code code
   code code code
