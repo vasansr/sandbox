@@ -24,6 +24,8 @@ Proceeding with third set of changes
 More changes ...
 More changes before checkpoint 4
 
+Adding feature 1
+
 After branching cp4
 One more commit on master
 
