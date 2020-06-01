@@ -18,6 +18,7 @@ Adding feature 2
 Proceeding with third set of changes
   code code code
   code code code
+  adding feature 3
   more changes in between
   changes after finalizing checpoint 3
   code code code
